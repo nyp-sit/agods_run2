@@ -13,3 +13,4 @@ nltk==3.8.1
 gensim==4.3.1
 pyLDAvis==2.1.2
 openpyxl==3.1.2
+xgboost
